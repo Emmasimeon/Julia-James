@@ -1,5 +1,4 @@
 # Julia-James
-Write a while loop that:
 
 Write a while loop that:</br>
 
